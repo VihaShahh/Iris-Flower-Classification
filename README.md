@@ -12,4 +12,4 @@ Hello #connections, I'm delightful to share that I have completed my project nam
 
 🔸 GitHub Link : https://lnkd.in/dA_eACSR
 
-#MachineLearning #IrisFlowerClassification #DataScience #Environment #Botany #OasisInfobyteInternship
+#MachineLearning #IrisFlowerClassification #DataScience #Environment #Botany 
